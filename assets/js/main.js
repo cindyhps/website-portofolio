@@ -67,7 +67,7 @@ tabs.forEach( tab =>{
 })
 
 /*==================== PORTFOLIO SWIPER  ====================*/
-let swiper = new Swiper('.portofolio__container', {
+/*let swiper = new Swiper('.portofolio__container', {
     cssMode: true,
     loop: true, 
 
@@ -81,7 +81,7 @@ let swiper = new Swiper('.portofolio__container', {
     },
     mousewheel: true,
     keyborad: true,
-});
+});*/
 
 /*==================== SCROLL SECTIONS ACTIVE LINK ====================*/
 const sections = document.querySelectorAll('section[id]')
