@@ -618,7 +618,7 @@ img{
 }
 
 /*==================== PORTOFOLIO ====================*/
-.portofolio__container{
+/*.portofolio__container{
   overflow: initial;
 }
 
@@ -677,7 +677,7 @@ img{
 .swiper-button-next,
 .swiper-pagination-bullets{
   outline: none;
-}
+}*/
 
 /*==================== CONTACT ME ====================*/
 .contact__container {
