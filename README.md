@@ -1,7 +1,7 @@
 Web Technology Course
 
 Name     : Cindy Hapsari
-NIM      : 032
+NIM      : 2215101032
 
 Using Tailwind, Unicons etc
 
